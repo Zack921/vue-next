@@ -2,6 +2,13 @@
 
 This is the repository for Vue 3.0.
 
+## how to debug
+``` bash
+yarn --ignore-scripts
+npm run dev-sm
+launch vscode debug / open web server of packages/vue/examples/demo.html
+```
+
 ## Quickstart
 
 - Via CDN: `<script src="https://unpkg.com/vue@next"></script>`
